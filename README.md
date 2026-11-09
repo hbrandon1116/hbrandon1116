@@ -9,7 +9,7 @@ Soy desarrollador de software Full Stack, enfocado en el desarrollo de aplicacio
 * **Tools** Git, GitHub, APIs Rest
 
 ## 🚀 Proyectos Destacados
-* **Defini:** Plataforma web integral para la gestión de inventario de comercios locales, integrando control de stock y roles de usuario.
+* **Defini:** Plataforma web integral para la gestión de inventario de comercios locales, integrando control de stock y roles de usuario. (en desarrollo)
 * **EventOps:** Plataforma de planificación de eventos e invitaciones digitales.
 * **FinalFinancy:** Aplicación web de gestión financiera personal para el control de gastos y presupuestos. (en desarrollo)
 
