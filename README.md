@@ -15,6 +15,6 @@ Soy desarrollador de software Full Stack, enfocado en el desarrollo de aplicacio
 
 ## 📫 Contacto
 
-- **Email:** [hbrandon1116@gmail.com](mailto:tu-correo@gmail.com)
+- **Email:** [hbrandon1116@gmail.com](hbrandon1116@gmail.com)
 - **Portafolio:** [Ver mi portafolio](https://tu-portafolio.vercel.app)
-- **LinkedIn:** [www.linkedin.com/in/brandon-hinga-beltran](https://www.linkedin.com/)
+- **LinkedIn:** [www.linkedin.com/in/brandon-hinga-beltran](www.linkedin.com/in/brandon-hinga-beltran)
