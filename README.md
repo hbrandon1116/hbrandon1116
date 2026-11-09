@@ -1,16 +1,14 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Brandon Hinga
 
-<!--
-**hbrandon1116/hbrandon1116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador de software Full Stack, enfocado en el desarrollo de aplicaciones web, la integración de servicios y la construcción de soluciones tecnológicas que resuelven problemas reales. 
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias y Herramientas
+* **Frontend:** React, Vite, TypeScript, Flutter
+* **Backend:** Python, Django, Django REST Framework, Node.js
+* **Bases de Datos & Infraestructura:** PostgreSQL, Supabase, MongoDB
+* **Tools** Git, GitHub, APIs Rest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos Destacados
+* **Defini:** Plataforma web integral para la gestión de inventario de comercios locales, integrando control de stock y roles de usuario.
+* **EventOps:** Plataforma de planificación de eventos e invitaciones digitales.
+* **FinalFinancy:** Aplicación web de gestión financiera personal para el control de gastos y presupuestos. (en desarrollo)
