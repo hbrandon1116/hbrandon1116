@@ -12,3 +12,9 @@ Soy desarrollador de software Full Stack, enfocado en el desarrollo de aplicacio
 * **Defini:** Plataforma web integral para la gestión de inventario de comercios locales, integrando control de stock y roles de usuario.
 * **EventOps:** Plataforma de planificación de eventos e invitaciones digitales.
 * **FinalFinancy:** Aplicación web de gestión financiera personal para el control de gastos y presupuestos. (en desarrollo)
+
+## 📫 Contacto
+
+- **Email:** [hbrandon1116@gmail.com](mailto:tu-correo@gmail.com)
+- **Portafolio:** [Ver mi portafolio](https://tu-portafolio.vercel.app)
+- **LinkedIn:** [https://www.linkedin.com/in/brandon-hinga-beltran/](https://www.linkedin.com/)
