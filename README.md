@@ -3,10 +3,10 @@
 Soy desarrollador de software Full Stack, enfocado en el desarrollo de aplicaciones web, la integración de servicios y la construcción de soluciones tecnológicas que resuelven problemas reales. 
 
 ## 🛠️ Tecnologias y Herramientas
-* **Frontend:** React, Vite, TypeScript, Flutter
-* **Backend:** Python, Django, Django REST Framework, Node.js
+* **Frontend:** React, Vite, TypeScript, Netx.js
+* **Backend:** Django, Node.js
 * **Bases de Datos & Infraestructura:** PostgreSQL, Supabase, MongoDB
-* **Tools** Git, GitHub, APIs Rest
+* **Otros** Power BI, Linux, Nmap, Git, GitHub, APIs Rest
 
 ## 🚀 Proyectos Destacados
 * **Defini:** Plataforma web integral para la gestión de inventario de comercios locales, integrando control de stock y roles de usuario. (en desarrollo)
