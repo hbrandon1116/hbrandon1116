@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Brandon Hinga
 
-Soy desarrollador de software Full Stack, enfocado en el desarrollo de aplicaciones web, la integración de servicios y la construcción de soluciones tecnológicas que resuelven problemas reales. 
+Soy desarrollador de software Full-Stack con un gran interés en la ciberseguridad, enfocado en el desarrollo de aplicaciones web, la integración de servicios y la construcción de soluciones tecnológicas que resuelven problemas reales. 
 
 ## 🛠️ Tecnologias y Herramientas
 * **Frontend:** React, Vite, TypeScript, Netx.js
@@ -16,5 +16,5 @@ Soy desarrollador de software Full Stack, enfocado en el desarrollo de aplicacio
 ## 📫 Contacto
 
 - **Email:** [hbrandon1116@gmail.com](mailto:hbrandon1116@gmail.com)
-- **Portafolio:** [Ver mi portafolio](https://TU-URL-REAL.vercel.app)
-- **LinkedIn:** [linkedin.com/in/brandon-hinga-beltran](https://www.linkedin.com/in/brandon-hinga-beltran/)
+- **Portafolio:** [Ver mi portafolio](portafoliobrandon.vercel.app)
+- **LinkedIn:** [linkedin.com/in/brandon-hinga-beltran](https://www.linkedin.com/in/brandon-hinga-beltran)
